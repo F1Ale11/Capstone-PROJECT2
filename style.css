@@ -1,0 +1,37 @@
+.top-container {
+    background-color: #31304D;
+    position: relative;
+    padding-top: 100px;
+}
+h1, .textbonito{
+    color: #B6BBC4;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    text-align: center;
+}
+h2{
+    color: #F0ECE5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.img3{
+    height: 300px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.img2{
+    height: 50px;
+    position: relative;
+    left: 10%;
+}
+.textonormal{
+    color: #161A30;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
